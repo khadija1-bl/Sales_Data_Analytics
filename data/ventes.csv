@@ -1,0 +1,16 @@
+id_vente,date,produit,categorie,quantite,prix_unitaire,ville
+1,2026-01-05,Laptop,Informatique,2,6500,Tanger
+2,2026-01-06,Souris,Accessoires,5,120,Rabat
+3,2026-01-08,Clavier,Accessoires,3,250,Casablanca
+4,2026-01-10,Ecran,Informatique,2,1800,Fes
+5,2026-01-12,Laptop,Informatique,1,6500,Tanger
+6,2026-01-15,Casque,Accessoires,4,350,Rabat
+7,2026-01-18,Ecran,Informatique,1,1800,Tanger
+8,2026-01-20,Souris,Accessoires,10,120,Casablanca
+9,2026-02-02,Clavier,Accessoires,6,250,Fes
+10,2026-02-05,Laptop,Informatique,3,6500,Rabat
+11,2026-02-09,Casque,Accessoires,2,350,Tanger
+12,2026-02-12,Ecran,Informatique,4,1800,Casablanca
+13,2026-02-15,Souris,Accessoires,8,120,Fes
+14,2026-02-19,Laptop,Informatique,1,6500,Casablanca
+15,2026-02-22,Clavier,Accessoires,5,250,Tanger
